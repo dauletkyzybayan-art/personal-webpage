@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0fa;
+    color: #30283b;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #69418c;
+}
+
+h2 {
+    color: #79549a;
+}
+.intro {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #d8c7e8;
+    border-radius: 12px;
+}
+#about-me {
+    color: #69418c;
+    font-size: 22px;
+    font-weight: bold;
+}
+.site-nav a {
+    color: #69418c;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.site-nav a:hover {
+    text-decoration: underline;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid #d8c7e8;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #eadff5;
+    color: #69418c;
+}
+.contact-form {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #d8c7e8;
+    border-radius: 12px;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.contact-form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+
+#name, #email {
+    width: 90%;
+    padding: 8px;
+}
+
+.contact-form button {
+    padding: 8px 18px;
+    background-color: #69418c;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
+img {
+    width: 250px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
